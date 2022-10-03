@@ -1,2 +1,2 @@
 # Practice
-This is a practice file
+## This is my Practice file for learning Git
